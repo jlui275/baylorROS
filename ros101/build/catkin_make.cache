@@ -1,0 +1,2 @@
+random_husky_driver
+-DCATKIN_DEVEL_PREFIX=/home/user/ros101/devel -DCMAKE_INSTALL_PREFIX=/home/user/ros101/install -G Unix Makefiles

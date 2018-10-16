@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "random_husky_driver")
+set(random_husky_driver_MAINTAINER "user <user@todo.todo>")
+set(random_husky_driver_DEPRECATED "")
+set(random_husky_driver_VERSION "0.0.0")
+set(random_husky_driver_BUILD_DEPENDS "roscpp" "std_msgs")
+set(random_husky_driver_RUN_DEPENDS "roscpp" "std_msgs")
+set(random_husky_driver_BUILDTOOL_DEPENDS "catkin")
